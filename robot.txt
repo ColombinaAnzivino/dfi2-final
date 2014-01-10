@@ -1,0 +1,12 @@
+# Hashes are comments
+
+# http://en.wikipedia.org/wiki/robots_exclusion_standard
+# http://www.robotstxt.org
+
+Sitemap: http://aaaa000.site44.com/dsn1543/sea/sitemap.xml
+
+User-agent: *
+
+Disallow: /folder-name-that-we-dont-want-to-show/
+Disallow: /tmp/
+Disallow: /assets/
